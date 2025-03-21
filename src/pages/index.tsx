@@ -1,5 +1,4 @@
 import { Button, Input, VStack, Heading, Box } from "@chakra-ui/react";
-import { Router } from "next/router";
 import { useRouter } from "next/router";
 
 const LoginPage = () => {
